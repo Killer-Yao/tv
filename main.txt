@@ -70,3 +70,9 @@ CCTV文化精品,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/322122567
 兵团卫视,http://ivi.bupt.edu.cn/hls/bttv.m3u8$北邮标清#http://live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/bttv/1000/index.m3u8?ProgramID=&encrypt=$咪咕#http://112.50.243.8/PLTV/88888888/224/3221226950/1.m3u8
 三沙卫视,http://ivi.bupt.edu.cn/hls/sstv.m3u8$北邮标清
 延边卫视,http://ivi.bupt.edu.cn/hls/ybtv.m3u8$北邮标清
+
+中国教育,#genre#
+CETV-1,http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8$北邮高清#http://live.hcs.cmvideo.cn:8088/wd_r3/cctv/cetv1hd/3000/index.m3u8?ProgramID=&encrypt=$咪咕#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8$北京移动#http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
+CETV-2,http://live.hcs.cmvideo.cn:8088/wd_r3/cnr/cetv2/600/index.m3u8?ProgramID=&encrypt=#http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
+CETV-3,http://live.hcs.cmvideo.cn:8088/wd_r3/cnr/cetv3/600/index.m3u8?ProgramID=&encrypt=#http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8?_res_tag_=video
+CETV-4,http://live.hcs.cmvideo.cn:8088/wd_r3/cnr/cetv4/600/index.m3u8?ProgramID=&encrypt=#http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?_res_tag_=video

@@ -29,7 +29,6 @@ CCTV女性时尚,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/322122569
 CCTV世界地理,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 CCTV文化精品,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
 
-
 卫视.#genre#
 湖南卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8$央视频#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8$北京移动#http://117.169.124.37:6610/ysten-businessmobile/live/hdhunanstv/1.m3u8
 浙江卫视,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8$央视频#http://ivi.bupt.edu.cn/hls/zjhd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8$北京移动#http://117.169.124.37:6610/ysten-businessmobile/live/hdzhejiangstv/yst.m3u8

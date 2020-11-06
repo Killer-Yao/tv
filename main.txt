@@ -16,8 +16,12 @@ CCTV-13新闻,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3
 CCTV-14少儿,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8$北京移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-14/1.m3u8
 CCTV-15音乐,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv15hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8$北京移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-15/1.m3u8
 CCTV-17农业农村,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8$北京移动#http://117.169.124.37:6610/ysten-businessmobile/live/HD-4000k-1080P-cctv17/1.m3u8
-CGTN,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8$央视频#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225867/1.m3u8$北京移动
-CGTN Documentary,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.m3u8$北京移动
+CGTN,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8$央视频#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225867/1.m3u8$北京移动#http://live.cgtn.com/1000/prog_index.m3u8$官网
+CGTN纪录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.m3u8$北京移动#http://livedoc.cgtn.com/1000d/prog_index.m3u8$官网
+CGTN法语,http://livefr.cgtn.com/1000f/prog_index.m3u8$官网
+CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8$官网
+CGTN西语,http://livees.cgtn.com/1000e/prog_index.m3u8$官网
+CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8$官网
 CCTV兵器科技,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
 CCTV第一剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
 CCTV风云剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls

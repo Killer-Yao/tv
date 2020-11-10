@@ -1,19 +1,17 @@
 # 直播源
- **全部频道**  [ _TXT_ ](https://gitee.com/hhoyinn/tv/raw/master/list.txt)
 
-#### 内地
--  **央视卫视**  [ _TXT_ ](https://gitee.com/hhoyinn/tv/raw/master/main.txt)
--  **IPTV**  [ _TXT_ ](https://gitee.com/hhoyinn/tv/raw/master/iptv.txt)
+##### 全部频道 [ `TXT` ](https://gitee.com/hhoyinn/tv/raw/master/list.txt)
 
-#### 香港
-[ _TXT_ ](https://gitee.com/hhoyinn/tv/raw/master/hk.txt)
-[ _M3U_ ](https://gitee.com/hhoyinn/tv/raw/master/hk.m3u)
+##### 央视卫视 [ `TXT` ](https://gitee.com/hhoyinn/tv/raw/master/main.txt)
 
-#### 澳门 
-[ _TXT_ ](https://gitee.com/hhoyinn/tv/raw/master/mo.txt)
+##### IPTV [ `TXT` ](https://gitee.com/hhoyinn/tv/raw/master/iptv.txt)
 
-#### 台湾
-[ _TXT_ ](https://gitee.com/hhoyinn/tv/raw/master/tw.txt)
+##### 香港 [ `TXT` ](https://gitee.com/hhoyinn/tv/raw/master/hk.txt) [ `M3U` ](https://gitee.com/hhoyinn/tv/raw/master/hk.m3u)
 
-#### 海外
-[ _TXT_ ](https://gitee.com/hhoyinn/tv/raw/master/int.txt)
+##### 澳门 [ `TXT` ](https://gitee.com/hhoyinn/tv/raw/master/mo.txt)
+
+##### 台湾 [ `TXT` ](https://gitee.com/hhoyinn/tv/raw/master/tw.txt)
+
+##### 海外 [ `TXT` ](https://gitee.com/hhoyinn/tv/raw/master/int.txt)
+
+##### 直播平台 [ `TXT` ](https://gitee.com/hhoyinn/tv/raw/master/live_list.txt)

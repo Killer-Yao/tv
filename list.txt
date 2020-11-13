@@ -1,22 +1,22 @@
 央视,#genre#
-CCTV-1综合,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8$北京移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-1/1.m3u8
-CCTV-2财经,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8$北京移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-2/1.m3u8
-CCTV-3综艺,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8$北邮高清#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/1.m3u8$黑龙江移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
-CCTV-4中文国际,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8$北京移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-4/1.m3u8
-CCTV-5体育,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8$北邮高清#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225591/1.m3u8$黑龙江移动#http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-CCTV-5+体育赛事,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8$北京移动#http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-CCTV-6电影,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8$北邮高清#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/1.m3u8$黑龙江移动#http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=093&Provider_id=&Pcontent_id=index.m3u8
-CCTV-7国防军事,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cct7vhd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8$北京移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-7/1.m3u8
-CCTV-8电视剧,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8$北邮高清#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/1.m3u8$黑龙江移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-CCTV-9纪录,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8$北京移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-news/1.m3u8
-CCTV-10科教,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8$北京移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-10/1.m3u8
-CCTV-11戏曲,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8$北京移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-11/1.m3u8
-CCTV-12社会与法,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8$北京移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-12/1.m3u8
-CCTV-13新闻,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8$北邮高清#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/1.m3u8$黑龙江移动#http://ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8$江苏移动
-CCTV-14少儿,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8$北京移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-14/1.m3u8
-CCTV-15音乐,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv15hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8$北京移动#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-15/1.m3u8
-CCTV-17农业农村,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8$央视频#http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8$北京移动#http://117.169.124.37:6610/ysten-businessmobile/live/HD-4000k-1080P-cctv17/1.m3u8
-CGTN,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8$央视频#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225867/1.m3u8$北京移动#http://live.cgtn.com/1000/prog_index.m3u8$官网
+CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8$北京移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8$央视频#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-1/1.m3u8
+CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8$北京移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8$央视频#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-2/1.m3u8
+CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8$北邮高清#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/1.m3u8$黑龙江移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8$央视频#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+CCTV-4中文国际,http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8$北京移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8$央视频#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-4/1.m3u8
+CCTV-5体育,http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8$北邮高清#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225591/1.m3u8$黑龙江移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8$央视频#http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV-5+体育赛事,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8$北京移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8$央视频#http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8$北邮高清#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/1.m3u8$黑龙江移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8$央视频#http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=093&Provider_id=&Pcontent_id=index.m3u8
+CCTV-7国防军事,http://ivi.bupt.edu.cn/hls/cct7vhd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8$北京移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8$央视频#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-7/1.m3u8
+CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8$北邮高清#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/1.m3u8$黑龙江移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8$央视频#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+CCTV-9纪录,http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8$北京移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8$央视频#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-news/1.m3u8
+CCTV-10科教,http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8$北京移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8$央视频#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-10/1.m3u8
+CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8$北京移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8$央视频#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-11/1.m3u8
+CCTV-12社会与法,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8$北京移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8$央视频#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-12/1.m3u8
+CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8$北邮高清#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/1.m3u8$黑龙江移动#http://ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8$江苏移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8$央视频
+CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8$北京移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8$央视频#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-14/1.m3u8
+CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8$北京移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8$央视频#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-15/1.m3u8
+CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8$北京移动#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8$央视频#http://117.169.124.37:6610/ysten-businessmobile/live/HD-4000k-1080P-cctv17/1.m3u8
+CGTN,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225867/1.m3u8$北京移动#http://live.cgtn.com/1000/prog_index.m3u8$官网#http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8$央视频
 CGTN纪录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.m3u8$北京移动#http://livedoc.cgtn.com/1000d/prog_index.m3u8$官网
 CGTN法语,http://livefr.cgtn.com/1000f/prog_index.m3u8$官网
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8$官网
@@ -111,7 +111,7 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 嘉佳卡通,http://live.hcs.cmvideo.cn:8088/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?ProgramID=&encrypt=
 
 香港,#genre#
-翡翠台,https://cdn.hkdtmb.com/81a/playlist.m3u8$HKDTMB#http://61.238.6.49:8000/bysid/1$mpeg#http://danielwu.gz01.bdysite.com/iptv/?id=tvb2#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+翡翠台,https://cdn.hkdtmb.com/81a/playlist.m3u8$HKDTMB#http://61.238.6.49:8000/bysid/1$mpeg#http://danielwu.gz01.bdysite.com/iptv/?id=tvb2#http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 J2,https://cdn.hkdtmb.com/82a/playlist.m3u8$HKDTMB#http://zscity.f3322.net:8000/bysid/82$mpeg
 无线新闻台,http://155.94.164.191/live.php?id=1#http://tv.sason.xyz/proxy/tvb.php?id=xw#http://zscity.f3322.net:8000/bysid/83$mpeg#http://520574.xyz/dl/tvb.php?id=inewshd#http://155.94.164.191/live.php?id=1#http://45.93.217.106/jiuban/hg.php?id=1#http://96.45.185.192/tv.php?vid=wxxw#http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2#http://nat1.hk.pn:15501/tvb.php?id=inews
 明珠台,http://zscity.f3322.net:8000/bysid/2$mpeg#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -130,7 +130,7 @@ now新闻台,p8p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b$P8P#mitv
 RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8$★官网#mitv://147.135.39.171:9906/5e9fd724000764a5c5f564790eb03709.ts$mitv
 RTHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8$★官网#mitv://147.135.39.171:9906/5e9fd724000d1fc7c5f565f078712f85.ts$mitv
 香港电台,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
-ATV A1台,## https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo_720p.m3u8$720P#https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+ATV A1台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo_720p.m3u8$720P#https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 凤凰中文,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8$北京移动#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 凤凰资讯,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8$北京移动#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://117.169.120.138:8080/live/fhzixun/1.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50$P8P
@@ -216,7 +216,27 @@ DOXTV-4K,http://103.140.229.13/zztv/gudou.php?id=dox4k_16000
 江苏4K宣传,http://122.97.211.220:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11686&Fsv_otype=0&Provider_id=&Pcontent_id=
 
 广播电台,#genre#
-
+中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+维语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+哈语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+南海之声,http://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8
+轻松调频,http://sk.cri.cn/915.m3u8?1605276768836
+环球资讯广播,http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+英语资讯广播 China Plus Radio,http://cnlive.cnr.cn/hls/yyzxgb.m3u8
 
 景区直播,#genre#
 中央电视台中塔西,https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001

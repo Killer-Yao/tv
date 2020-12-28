@@ -1,0 +1,15 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="" tvg-name="Olympic" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/int/olympicchannel.png" group-title="海外",奥运频道
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+#http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/int/nhkworldzh.png" group-title="海外",NHK-华语视界
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/int/cna.png" group-title="海外",亚洲新闻台
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS24" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/int/ntv.png" group-title="海外",NTV-NEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="日本天气预报" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/int/" group-title="海外",日本天气预报
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8

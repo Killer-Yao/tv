@@ -308,13 +308,13 @@ http://ivi.bupt.edu.cn/hls/hbtv.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/main/hubei.png",湖北卫视
 http://112.50.243.8/PLTV/88888888/224/3221225948/1.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/main/zhongqing.png",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/main/chongqing.png",重庆卫视
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/main/zhongqing.png",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/main/chongqing.png",重庆卫视
 http://ivi.bupt.edu.cn/hls/cqtv.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/main/zhongqing.png",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/main/chongqing.png",重庆卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/main/zhongqing.png",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/main/chongqing.png",重庆卫视
 http://117.169.124.37:6610/ysten-businessmobile/live/chongqingstv/yst.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/main/sichuan.png",四川卫视
 http://ivi.bupt.edu.cn/hls/schd.m3u8

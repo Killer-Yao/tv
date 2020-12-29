@@ -173,5 +173,5 @@ https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
 https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
 #EXTINF:-1 tvg-name="香港电台第六台" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/hk/rthkradio6.png",香港电台第六台-香港之声
 https://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8
-#EXTINF:-1 tvg-name="香港电台普通话台 tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/hk/rthkradiopth.png",香港电台普通話台
+#EXTINF:-1 tvg-name="香港电台普通话台" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/hk/rthkradiopth.png",香港电台普通话台
 https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8

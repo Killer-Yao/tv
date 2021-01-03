@@ -71,7 +71,7 @@ http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a9024
 
 #EXTINF:-1 tvg-name="有线电影台" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/hk/cablemovies.png" group-title="香港",有线电影台
 http://cdn.wakds.xyz:25461/live/hls/live/1399.m3u8
-#EXTINF:-1 tvg-name="有线体育台" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/hk/cablesport.png" group-title="香港",有线体育台
+#EXTINF:-1 tvg-name="有线体育台" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/hk/cablesports.png" group-title="香港",有线体育台
 # mitv://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts
 #EXTINF:-1 tvg-name="now新闻台" tvg-logo="https://gitee.com/hhoyinn/tv/raw/master/logo/hk/nownews.png" group-title="香港",now新闻台
 http://cdn.wakds.xyz:25461/live/hls/live/1397.m3u8

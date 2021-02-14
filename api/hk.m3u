@@ -161,17 +161,17 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="亚旅卫视" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/hk/actstv.png",香港-亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
-#EXTINF:-1 tvg-name="香港电台第一台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/hk/rthkradio1.png",香港电台第一台
+#EXTINF:-1 tvg-name="香港电台第一台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/radio/hk/rthkradio1.png",香港电台第一台
 https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
-#EXTINF:-1 tvg-name="香港电台第二台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/hk/rthkradio2.png",香港电台第二台
+#EXTINF:-1 tvg-name="香港电台第二台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/radio/hk/rthkradio2.png",香港电台第二台
 https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
-#EXTINF:-1 tvg-name="香港电台第三台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/hk/rthkradio3.png",香港电台第三台
+#EXTINF:-1 tvg-name="香港电台第三台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/radio/hk/rthkradio3.png",香港电台第三台
 https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
-#EXTINF:-1 tvg-name="香港电台第四台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/hk/rthkradio4.png",香港电台第四台
+#EXTINF:-1 tvg-name="香港电台第四台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/radio/hk/rthkradio4.png",香港电台第四台
 https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
-#EXTINF:-1 tvg-name="香港电台第五台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/hk/rthkradio5.png",香港电台第五台
+#EXTINF:-1 tvg-name="香港电台第五台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/radio/hk/rthkradio5.png",香港电台第五台
 https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
-#EXTINF:-1 tvg-name="香港电台第六台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/hk/rthkradio6.png",香港电台第六台-香港之声
+#EXTINF:-1 tvg-name="香港电台第六台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/radio/hk/rthkradio6.png",香港电台第六台-香港之声
 https://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8
-#EXTINF:-1 tvg-name="香港电台普通话台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/hk/rthkradiopth.png",香港电台普通话台
+#EXTINF:-1 tvg-name="香港电台普通话台" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/radio/hk/rthkradiopth.png",香港电台普通话台
 https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8

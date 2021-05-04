@@ -1,0 +1,15 @@
+广东,#genre#
+广东卫视,http://ivi.bupt.edu.cn/hls/gdhd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8$北京移动#http://117.169.124.37:6610/ysten-businessmobile/live/hdguangdongstv/yst.m3u8#https://wslizhi.gdtv.cn/live/gdws.m3u8#http://nat1.hk.pn:15501/gdtv.php?id=43
+南方卫视,http://live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?ProgramID=&encrypt=$咪咕#https://nclive.grtn.cn/tvs2/sd/live.m3u8#http://nat1.hk.pn:15501/gdtv.php?id=51
+深圳卫视,http://ivi.bupt.edu.cn/hls/szhd.m3u8$北邮高清#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8$北京移动#http://112.50.243.8/PLTV/88888888/224/3221225938/1.m3u8
+广东综艺,https://nclive.grtn.cn/4K/sd/live.m3u8#http://nat1.hk.pn:15501/gdtv.php?id=16
+广东珠江,https://nclive.grtn.cn/zjpd/sd/live.m3u8#http://nat1.hk.pn:15501/gdtv.php?id=44
+广东新闻,https://nclive.grtn.cn/xwpd/sd/live.m3u8#http://nat1.hk.pn:15501/gdtv.php?id=45
+广东国际,https://nclive.grtn.cn/gjpd/sd/live.m3u8#http://nat1.hk.pn:15501/gdtv.php?id=46
+广东体育,http://live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/gdty/1000/index.m3u8?ProgramID=&encrypt=$咪咕#https://nclive.grtn.cn/typd/sd/live.m3u8#http://nat1.hk.pn:15501/gdtv.php?id=47
+广东公共,https://nclive.grtn.cn/ggpd/sd/live.m3u8#http://nat1.hk.pn:15501/gdtv.php?id=48
+经济科教,https://nclive.grtn.cn/tvs1hd/hd/live.m3u8#http://nat1.hk.pn:15501/gdtv.php?id=49
+广东影视,https://nclive.grtn.cn/tvs4/sd/live.m3u8#http://nat1.hk.pn:15501/gdtv.php?id=53
+广东少儿,https://nclive.grtn.cn/tvs5/sd/live.m3u8#http://nat1.hk.pn:15501/gdtv.php?id=54
+嘉佳卡通,https://nclive.grtn.cn/jjkt/sd/live.m3u8#http://nat1.hk.pn:15501/gdtv.php?id=66
+广东移动,https://szlive.grtn.cn/ydpd/sd/live.m3u8#http://nat1.hk.pn:15501/gdtv.php?id=74

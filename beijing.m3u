@@ -1,0 +1,32 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/beijing.png" group-title="北京",北京文艺
+http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/beijing.png" group-title="北京",北京文艺
+http://ivi.bupt.edu.cn/hls/btv2.m3u8
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/beijing.png" group-title="北京",北京科教
+http://ivi.bupt.edu.cn/hls/btv3.m3u8
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/beijing.png" group-title="北京",北京影视
+http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/beijing.png" group-title="北京",北京影视
+http://ivi.bupt.edu.cn/hls/btv4.m3u8
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/beijing.png" group-title="北京",北京财经
+http://ivi.bupt.edu.cn/hls/btv5.m3u8
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/beijing.png" group-title="北京",北京生活
+http://ivi.bupt.edu.cn/hls/btv7.m3u8
+#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/beijing.png" group-title="北京",北京青年
+http://ivi.bupt.edu.cn/hls/btv8.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/beijing.png" group-title="北京",北京新闻
+http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/beijing.png" group-title="北京",北京新闻
+http://ivi.bupt.edu.cn/hls/btv9.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/beijing.png" group-title="北京",北京卡酷少儿
+http://ivi.bupt.edu.cn/hls/btv10.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/beijing.png" group-title="纪实",北京冬奥纪实
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/beijing.png" group-title="纪实",北京冬奥纪实
+http://ivi.bupt.edu.cn/hls/btv11.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="上海纪实" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/iptv/docutv.png" group-title="纪实",上海纪实人文
+http://ivi.bupt.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/hhoyinn/logo/raw/master/tv/main/hunan.png" group-title="纪实",金鹰纪实
+http://ivi.bupt.edu.cn/hls/gedocu.m3u8

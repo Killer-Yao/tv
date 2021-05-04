@@ -7,6 +7,3 @@
 - 澳门 [TXT](https://gitee.com/hhoyinn/tv/raw/master/mo.txt)
 - 台湾 [TXT](https://gitee.com/hhoyinn/tv/raw/master/tw.txt)
 - 海外 [TXT](https://gitee.com/hhoyinn/tv/raw/master/int.txt)
-
-
-- 直播平台 [TXT](https://gitee.com/hhoyinn/tv/raw/master/live_list.txt)

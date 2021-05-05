@@ -29,4 +29,4 @@
 - 海外 International --- [TXT File](https://github.com/hhoyinn/tv/raw/main/int.txt) --- [M3U File](https://github.com/hhoyinn/tv/raw/main/int.m3u)
 
 
-GitHub： https://github.com/hhoyinn/tv/
+Gitee： https://gitee.com/hhoyinn/tv/
